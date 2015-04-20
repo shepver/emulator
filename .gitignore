@@ -1,0 +1,6 @@
+/ebin/*
+
+.idea
+billing_test.iml
+.rebar
+deps
